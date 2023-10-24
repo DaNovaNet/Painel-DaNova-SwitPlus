@@ -6,18 +6,18 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Pweb-Sonyc_Plus/raw/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/DaNovaNet/Painel-DaNova-SwitPlus/raw/main/install/ubuinst.sh)
 ```
 </br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-ENTRE EM CONTATO (74) 99944-5516  WhatSapp
+ENTRE EM CONTATO (27) 988336470  WhatSapp
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/lucianolima2905/Pweb-Sonyc_Plus/raw/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/DaNovaNet/Painel-DaNova-SwitPlus/raw/main/install/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
@@ -64,9 +64,9 @@ em breve
 
 # 𓊈𒆜 CRÉDITOS: 𒆜𓊉
 ```
-@crazy_vpn
+@DANOVANET @MODCONECTA4G
 
 ```
 
-# 𓊈𒆜 SONYC NET: 𒆜𓊉
+# 𓊈𒆜 @ModConecta4G: 𒆜𓊉
 👉 .
