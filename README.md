@@ -64,7 +64,7 @@ em breve
 
 # 𓊈𒆜 CRÉDITOS: 𒆜𓊉
 ```
-@DANOVANET @MODCONECTA4G
+@DANOVANET @MODCONECTA4G @sonycltda
 
 ```
 
