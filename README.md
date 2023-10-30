@@ -50,6 +50,30 @@ em breve
 
 7- Todos os nomes GESTOR-SSH foi trocado por EMPRESA
 (quando alterar o NOME DA LOGO no painel pweb, Todos os texto EMPRESA será trocado também.)
+
+8- Adicionado função de copiar dados para CLIENTES e REVENDEDORES
+(para alterar, vai na opção meus dados na conta do admin.)
+
+9- Espaçamento nos Texto Revenda / Texto Cliente
+(para alterar, vai na opção meus dados na conta do admin.)
+
+10- Atualização das Telas de Logins (Revenda & Admin)
+(Efeitos nas telas de login, e otimização das imagens).
+
+11- Botão Telegram no canto inferior esquerdo
+(Atualizado a opção de troca no PWEB)
+
+12- Conta Admin não cria mais Conta SSH nem Conta Teste
+(Foi removido para um bom funcionamento do painel)
+
+13- Alteração nas imagens dos apps e avatar
+(Na pagina de personalizar pode troca essas imagens)
+
+14- Checker CloudFlare
+(verificar se a SNI ainda está online e pegando)
+
+15- Teste Cliente
+(Correção, os testes duram 1dia)
 ```
 
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
