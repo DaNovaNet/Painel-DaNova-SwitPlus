@@ -6,7 +6,7 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/DaNovaNet/Painel-DaNova-SwitPlus/raw/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/DaNova_Net/Painel-DaNova-SwitPlus/raw/main/install/ubuinst.sh)
 ```
 </br>
 
