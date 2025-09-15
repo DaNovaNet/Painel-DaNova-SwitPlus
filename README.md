@@ -6,13 +6,13 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/DaNova_Net/Painel-DaNova-SwitPlus/raw/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/DaNovaNet/Painel-DaNova-SwitPlus/raw/main/install/ubuinst.sh)
 ```
 </br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-Entre em contato: (Telegram: https://t.me/DANOVANET) ou (WhatsApp: https://wa.me/5527997734469)
+Entre em contato: (Telegram: https://t.me/DANOVA_NET) ou (WhatsApp: https://wa.me/5527997734469)
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
