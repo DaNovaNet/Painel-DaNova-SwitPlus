@@ -12,7 +12,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/DaNovaNet/Painel-DaNova
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-Entre em contato: (Telegram: https://t.me/DANOVANET) ou (WhatsApp: https://wa.me/5527988336470)
+Entre em contato: (Telegram: https://t.me/DANOVANET) ou (WhatsApp: https://wa.me/5527997734469)
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
